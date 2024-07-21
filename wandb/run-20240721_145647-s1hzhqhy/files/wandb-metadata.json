@@ -1,0 +1,17 @@
+{
+    "os": "Windows-10-10.0.19045-SP0",
+    "python": "3.9.7",
+    "heartbeatAt": "2024-07-21T05:56:53.511261",
+    "startedAt": "2024-07-21T05:56:47.396831",
+    "docker": null,
+    "gpu": "NVIDIA GeForce RTX 4060 Ti",
+    "gpu_count": 1,
+    "cpu_count": 12,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "<python with no main file>",
+    "host": "hlyn-dt",
+    "username": "500ny",
+    "executable": "d:\\Users\\500ny\\anaconda3\\envs\\hanlyang0522\\python.exe"
+}
